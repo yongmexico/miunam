@@ -2,7 +2,7 @@
 title: 'VLC Player es conocido por su simplicidad de uso, estabilidad y capacidad para reproducir archivos multimedia'
 pubDate: 2024-04-16
 author: 'miunam'
-image: 'pro/vlcplayer.png'
+image: 'pro/vlcplayer.webp'
 tags: ['Windows', 'MacOS', 'Linux', 'iOS', 'Android']
 slug: vlc-player-reproducir-archivos-multimedia
 ---

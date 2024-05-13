@@ -2,7 +2,7 @@
 title: 'ChatGPT: Abriendo las Puertas de la Inteligencia Conversacional'
 pubDate: 2024-04-17
 author: 'miunam'
-image: 'pro/chatgpt.png'
+image: 'pro/chatgpt.webp'
 tags: ['Ai']
 slug: chatgpt-inteligencia-artificial
 ---

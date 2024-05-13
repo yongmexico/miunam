@@ -2,7 +2,7 @@
 title: 'Twinmotion, es la visualización 3D en tiempo real simplificada'
 pubDate: 2024-04-16
 author: 'miunam'
-image: 'pro/twinmotion.png'
+image: 'pro/twinmotion.webp'
 tags: ['Windows','MacOS']
 slug: twinmotion-diseño-3D-arquitectura
 ---

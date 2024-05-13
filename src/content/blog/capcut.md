@@ -2,7 +2,7 @@
 title: 'CapCut es una aplicación pooderosa de edición de video todo en uno'
 pubDate: 2024-04-15
 author: 'miunam'
-image: 'pro/capcut.png'
+image: 'pro/capcut.webp'
 tags: ['Windows', 'MacOS', 'Linux','Navegador']
 slug: Capcut-edición-video
 ---

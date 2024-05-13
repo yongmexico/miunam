@@ -2,7 +2,7 @@
 title: '7-Zip es un archivador de ficheros con una alta relación de compresión'
 pubDate: 2024-04-12
 author: 'miunam'
-image: 'pro/7zip.png'
+image: 'pro/7zip.webp'
 tags: ['Windows']
 slug: 7-Zip-archivador-ficheros
 ---

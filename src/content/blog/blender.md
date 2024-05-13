@@ -2,7 +2,7 @@
 title: 'Blender es un software de creación 3D para el modelado, animación, renderizado, simulaciones y composición'
 pubDate: 2024-04-12
 author: 'miunam'
-image: 'pro/blender.png'
+image: 'pro/blender.webp'
 tags: ['Windows', 'MacOS','Linux']
 slug: Blender-herramienta-diseño-3D
 ---
