@@ -12,32 +12,25 @@ slug: Awesome Screenshot_Captura_Anota_Facilidad
 
 **VÍDEO EN PANTALLA**
 
-Graba tanto la pantalla como la cámara
-Para explicar cualquier cosa claramente.
+Graba tanto la pantalla como la cámara - Para explicar cualquier cosa claramente.
 
-Compartir instantáneamente
-simplemente guárdelo en el disco local
+Compartir instantáneamente - simplemente guárdelo en el disco local
 
-Conéctese directamente con sus herramientas familiares
-Como Trello, Slack, Asana, Jira, etc.
+Conéctese directamente con sus herramientas familiares - Como Trello, Slack, Asana, Jira, etc.
 
 **CAPTURA DE PANTALLA**
 
-1 clic para tomar una captura de pantalla
-Incluso para toda la página
+1 clic para tomar una captura de pantalla - Incluso para toda la página
 
-Anotar una captura de pantalla
-Con varias opciones de edición.
+Anotar una captura de pantalla - Con varias opciones de edición.
 
-Compartir una captura de pantalla
-A múltiples destinos
+Compartir una captura de pantalla - A múltiples destinos
 
-Uso personal
+Uso personal:
 Guarde capturas de pantalla para registros personales
 
-Con amigos
+Con amigos:
 Comparte capturas de pantalla con tus amigos a través de Facebook, Twitter o Gmail
 
-
-Con clientes y compañeros de equipo
+Con clientes y compañeros de equipo:
 Envía comentarios a tus clientes o compañeros de equipo en Google Drive, Trello, Slack o Asana
