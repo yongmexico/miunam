@@ -1,5 +1,5 @@
 ---
-title: 'Seguimiento de correo electrónico para Gmail'
+title: 'Streak: Seguimiento de correo electrónico para Gmail'
 pubDate: 2024-05-27
 author: 'miunam'
 image: 'pro/streakemail.webp'
