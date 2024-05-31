@@ -4,7 +4,7 @@ pubDate: 2024-05-28
 author: 'miunam'
 image: 'pro/autorefresh.webp'
 tags: ['Chrome Web Store']
-slug: Auto_Refresh_Plus_Actualiza_páginas_automáticamente
+slug: auto-refresh-plus-actualiza-paginas-automaticamente
 ---
 **[🟢⚪️🔴 https://autorefresh.io](https://autorefresh.io)**
 
