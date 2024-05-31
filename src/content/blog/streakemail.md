@@ -4,7 +4,7 @@ pubDate: 2024-05-27
 author: 'miunam'
 image: 'pro/streakemail.webp'
 tags: ['Chrome Web Store']
-slug: Seguimiento_correo_electrónico_Gmail
+slug: streak-seguimiento-correo-electronico-gmail
 ---
 **[🟢⚪️🔴 https://www.streak.com](https://www.streak.com)**
 

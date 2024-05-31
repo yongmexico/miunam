@@ -4,7 +4,7 @@ pubDate: 2024-04-10
 author: 'miunam'
 image: 'pro/photoscapex.webp'
 tags: ['Windows', 'MacOS']
-slug: photoscapex-edicion-fotos
+slug: photoscape-x-aplicacion-edicion-fotos-completa-versatil
 ---
 **[Descargar 🟢⚪️🔴 http://x.photoscape.org](http://x.photoscape.org)**
 

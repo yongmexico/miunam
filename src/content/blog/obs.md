@@ -4,7 +4,7 @@ pubDate: 2024-05-26
 author: 'miunam'
 image: 'pro/obs.webp'
 tags: ['Windows', 'MacOS', 'Linux']
-slug: OBS_Software_Esencial_Streamers_Creadores_Contenido
+slug: obs-software-esencial-streamers-creadores-contenido
 ---
 **[Descargar 🟢⚪️🔴 https://obsproject.com/es](https://obsproject.com/es)**
 

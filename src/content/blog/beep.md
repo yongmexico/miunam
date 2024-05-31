@@ -4,7 +4,7 @@ pubDate: 2024-05-29
 author: 'miunam'
 image: 'pro/beep.webp'
 tags: ['Chrome Web Store']
-slug: Beep_Grabaciones_audio_Google_Classroom_Docs_Sheets_Slides_forms
+slug: beep-grabaciones-audio-google-classroom-docs-sheets-slides-forms
 ---
 **[🟢⚪️🔴 https://www.beepaudio.com/products/google-classroom-voice](https://www.beepaudio.com/products/google-classroom-voice)**
 

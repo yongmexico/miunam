@@ -4,7 +4,7 @@ pubDate: 2024-04-06
 author: 'miunam'
 image: 'pro/chrome.webp'
 tags: ['Windows', 'MacOS','Android','iOS','Linux']
-slug: chrome-navegador-web
+slug: chrome-navegador-web-popular-desarrollado-google
 ---
 **[Descargar 🟢⚪️🔴 https://www.google.com/intl/es-419/chrome](https://www.google.com/intl/es-419/chrome)**
 

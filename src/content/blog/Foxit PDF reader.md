@@ -4,7 +4,7 @@ pubDate: 2024-04-12
 author: 'miunam'
 image: 'pro/foxitreader.webp'
 tags: ['Windows', 'MacOS','Android','iOS']
-slug: foxit-pdf-reader
+slug: foxit-pdf-reader-lector-pdf-poderoso-industria
 ---
 **[Descargar 🟢⚪️🔴 https://www.foxit.com/downloads/#Foxit-Reader](https://www.foxit.com/downloads/#Foxit-Reader)**
 

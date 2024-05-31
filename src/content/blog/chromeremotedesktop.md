@@ -4,7 +4,7 @@ pubDate: 2024-05-26
 author: 'miunam'
 image: 'pro/chromeremotedesktop.webp'
 tags: ['Chrome Web Store']
-slug: Chrome_Remote_Desktop_Accede_PC_cualquier_momento_lugar
+slug: chrome-remote-desktop-accede-tu-pc-cualquier-momento-lugar
 ---
 **[🟢⚪️🔴 https://remotedesktop.google.com](https://remotedesktop.google.com)**
 

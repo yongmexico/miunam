@@ -4,7 +4,7 @@ pubDate: 2024-04-09
 author: 'miunam'
 image: 'pro/usbrufus.webp'
 tags: ['Windows']
-slug: USB-Rufus
+slug: usb-rufus-cree-unidades-usb-arrancables-facilmente
 ---
 **[Descargar 🟢⚪️🔴 https://rufus.ie/es](https://rufus.ie/es)**
 

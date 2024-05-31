@@ -4,7 +4,7 @@ pubDate: 2024-04-11
 author: 'miunam'
 image: 'pro/figma.webp'
 tags: ['Navegador']
-slug: Figma-herramienta-diseño
+slug: figma-herramienta-nube-diseno-colaborativo-tiempo-real
 ---
 **[Descargar 🟢⚪️🔴 https://www.figma.com](https://www.figma.com)**
 

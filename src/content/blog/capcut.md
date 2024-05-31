@@ -4,7 +4,7 @@ pubDate: 2024-04-15
 author: 'miunam'
 image: 'pro/capcut.webp'
 tags: ['Windows', 'MacOS', 'Linux','Navegador']
-slug: Capcut-edición-video
+slug: capcut-aplicacion-poderosa-edicion-video-todo-en-uno
 ---
 **[Descargar 🟢⚪️🔴 https://www.capcut.com/es-es](https://www.capcut.com/es-es)**
 

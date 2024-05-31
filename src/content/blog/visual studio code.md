@@ -4,7 +4,7 @@ pubDate: 2024-04-12
 author: 'miunam'
 image: 'pro/visualstudiocode.webp'
 tags: ['Windows', 'MacOS', 'Linux']
-slug: visual-studio-code-editor-codigo-fuente
+slug: visual-studio-code-editor-codigo-fuente-popular-desarrolladores
 ---
 **[Descargar 🟢⚪️🔴 https://code.visualstudio.com](https://code.visualstudio.com)**
 

@@ -4,7 +4,7 @@ pubDate: 2024-04-12
 author: 'miunam'
 image: 'pro/davinciresolve19.webp'
 tags: ['Windows', 'MacOS','Android','iOS','Linux']
-slug: Davinci-Resolve-edicion-video
+slug: davinci-resolve-software-edicion-video-profesional
 ---
 **[Descargar 🟢⚪️🔴 https://www.blackmagicdesign.com/mx/products/davinciresolve](https://www.blackmagicdesign.com/mx/products/davinciresolve)**
 

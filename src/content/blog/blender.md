@@ -4,7 +4,7 @@ pubDate: 2024-04-12
 author: 'miunam'
 image: 'pro/blender.webp'
 tags: ['Windows', 'MacOS','Linux']
-slug: Blender-herramienta-diseño-3D
+slug: blender-software-creacion-3d-modelado-animacion-renderizado-simulaciones-composicion
 ---
 **[Descargar 🟢⚪️🔴 https://www.blender.org/download](https://www.blender.org/download)**
 

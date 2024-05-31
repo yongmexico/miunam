@@ -4,7 +4,7 @@ pubDate: 2024-05-26
 author: 'miunam'
 image: 'pro/gofullpage.webp'
 tags: ['Chrome Web Store']
-slug: GoFullPage_Captura_Pantalla_Completa_Solo_Clic
+slug: gofullpage-captura-pantalla-completa-solo-clic
 ---
 **[🟢⚪️🔴 https://gofullpage.com](https://gofullpage.com)**
 

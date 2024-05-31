@@ -4,7 +4,7 @@ pubDate: 2024-04-17
 author: 'miunam'
 image: 'pro/chatgpt.webp'
 tags: ['Ai']
-slug: chatgpt-inteligencia-artificial
+slug: chatgpt-abriendo-puertas-inteligencia-conversacional
 ---
 **[🟢⚪️🔴 https://chat.openai.com](https://chat.openai.com)**
 

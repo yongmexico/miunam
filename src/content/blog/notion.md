@@ -4,7 +4,7 @@ pubDate: 2024-04-10
 author: 'miunam'
 image: 'pro/notion.webp'
 tags: ['Navegador']
-slug: Notion-es-una-herramienta-versátil
+slug: notion-herramienta-versatil-crear-colaborar-organizar-ideas
 ---
 **[Descargar 🟢⚪️🔴 https://www.notion.so](https://www.notion.so)**
 

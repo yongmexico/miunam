@@ -4,7 +4,7 @@ pubDate: 2024-05-26
 author: 'miunam'
 image: 'pro/iina.webp'
 tags: ['MacOS']
-slug: IINA_Reproductor_Medios_Definitivo_macOS
+slug: iina-reproductor-medios-definitivo-macos
 ---
 **[Descargar 🟢⚪️🔴 https://iina.io](https://iina.io)**
 

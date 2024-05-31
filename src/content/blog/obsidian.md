@@ -4,7 +4,7 @@ pubDate: 2024-05-13
 author: 'miunam'
 image: 'pro/obsidian.webp'
 tags: ['Windows', 'MacOS','Android','iOS','Linux']
-slug: Obsidian_productividad_markdown
+slug: obsidian-explora-nuevo-mundo-productividad
 ---
 **[Descargar 🟢⚪️🔴 https://obsidian.md/download](https://obsidian.md/download)**
 

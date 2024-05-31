@@ -4,7 +4,7 @@ pubDate: 2024-04-16
 author: 'miunam'
 image: 'pro/twinmotion.webp'
 tags: ['Windows', 'MacOS']
-slug: twinmotion-diseño-3D-arquitectura
+slug: twinmotion-visualizacion-3d-tiempo-real-simplificada
 ---
 **[Descargar 🟢⚪️🔴 https://www.twinmotion.com/en-US](https://www.twinmotion.com/en-US)**
 

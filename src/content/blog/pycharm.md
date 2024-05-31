@@ -4,7 +4,7 @@ pubDate: 2024-04-11
 author: 'miunam'
 image: 'pro/pycham.webp'
 tags: ['Windows', 'MacOS', 'Linux']
-slug: pycharm-community-edition-ide-python
+slug: pycharm-entorno-desarrollo-integrado-ide-lenguaje-programacion-python
 ---
 **[Descargar 🟢⚪️🔴 https://www.jetbrains.com/es-es/pycharm/download/?section=windows](https://www.jetbrains.com/es-es/pycharm/download/?section=windows)**
 

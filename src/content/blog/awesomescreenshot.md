@@ -4,7 +4,7 @@ pubDate: 2024-05-27
 author: 'miunam'
 image: 'pro/awesomescreenshot.webp'
 tags: ['Chrome Web Store']
-slug: Awesome Screenshot_Captura_Anota_Facilidad
+slug: awesome-screenshot-captura-y-anota-con-facilidad
 ---
 **[🟢⚪️🔴 https://www.awesomescreenshot.com](https://www.awesomescreenshot.com)**
 

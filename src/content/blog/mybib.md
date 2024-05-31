@@ -4,7 +4,7 @@ pubDate: 2024-05-28
 author: 'miunam'
 image: 'pro/mybib.webp'
 tags: ['Chrome Web Store']
-slug: MyBib_Generador_citas_gratuito
+slug: mybib-generador-citas-gratuito
 ---
 **[🟢⚪️🔴 https://www.mybib.com](https://www.mybib.com)**
 

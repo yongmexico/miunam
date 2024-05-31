@@ -4,7 +4,7 @@ pubDate: 2024-04-16
 author: 'miunam'
 image: 'pro/vlcplayer.webp'
 tags: ['Windows', 'MacOS', 'Linux', 'iOS', 'Android']
-slug: vlc-player-reproducir-archivos-multimedia
+slug: vlc-player-simplicidad-uso-estabilidad-capacidad-reproducir-archivos-multimedia
 ---
 **[Descargar 🟢⚪️🔴 https://www.videolan.org](https://www.videolan.org)**
 

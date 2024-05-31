@@ -4,7 +4,7 @@ pubDate: 2024-04-09
 author: 'miunam'
 image: 'pro/notepad4ever.webp'
 tags: ['Windows']
-slug: notepad-editor-texto
+slug: notepad-plus-plus-editor-texto-codigo-fuente-codigo-abierto-windows
 ---
 **[Descargar 🟢⚪️🔴 https://notepad-plus-plus.org](https://notepad-plus-plus.org)**
 

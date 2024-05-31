@@ -4,7 +4,7 @@ pubDate: 2024-05-11
 author: 'miunam'
 image: 'pro/cpuz.webp'
 tags: ['Windows','Android']
-slug: cpuz_saber_PC
+slug: domina-tu-pc-con-cpuz-todo-lo-que-necesitas-saber
 ---
 **[🟢⚪️🔴 https://www.cpuid.com/softwares/cpu-z.html#install](https://www.cpuid.com/softwares/cpu-z.html#install)**
 
