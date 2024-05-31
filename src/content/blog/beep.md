@@ -6,7 +6,7 @@ image: 'pro/beep.webp'
 tags: ['Chrome Web Store']
 slug: Beep_Grabaciones_audio_Google_Classroom_Docs_Sheets_Slides_forms
 ---
-**[🟢⚪️🔴 https://www.beepaudio.com/products/gmail-voice](https://www.beepaudio.com/products/gmail-voice)**
+**[🟢⚪️🔴 https://www.beepaudio.com/products/google-classroom-voice](https://www.beepaudio.com/products/google-classroom-voice)**
 
 **Permite a profesores y estudiantes dejar notas de voz y comentarios en Google Classroom, Gmail, Google Docs, Presentaciones, Formularios y Hojas de cálculo.**
 
