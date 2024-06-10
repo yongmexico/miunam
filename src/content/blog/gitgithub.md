@@ -19,5 +19,11 @@ GitHub: Es una plataforma de alojamiento de código que utiliza Git para gestion
 **¿Por qué necesitas instalar ambos?**
 
 Git: Necesitas instalar Git en tu computadora para poder usar sus comandos y manejar el control de versiones localmente.
+
 GitHub: No necesitas "instalar" GitHub como tal, pero necesitas crear una cuenta en GitHub para alojar tus repositorios en línea y colaborar con otros.
 
+**Herramientas adicionales**
+
+Visual Studio Code: Tiene integración con Git, facilitando muchas operaciones directamente desde el editor.
+
+GitHub Desktop: Es una aplicación de escritorio que simplifica el uso de Git y GitHub con una interfaz gráfica.
